@@ -30,8 +30,8 @@ Tracking daily commits to build consistency. 1% better every day.
 **Week 6**: CTEs and Recursive Queries
 
 ### **Connect With Me**
-**LinkedIn**: [Add your LinkedIn URL here]  
-**LeetCode SQL 50**: [Add link if you have]  
+**LinkedIn**:   
+**LeetCode SQL 50**: 
 
 ---
 **Note to Recruiters**: This repo shows my daily execution and SQL growth. Happy to walk through any query in an interview.
