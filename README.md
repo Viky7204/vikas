@@ -3,7 +3,7 @@
 
 Following [Sumit Mittal's SQL Superstar](https://www.youtube.com/playlist?list=PLavw5C92dz9Ef4E-1Zi9KfCTXSqILXfW) to master SQL for Data Engineering interviews.
 
-### **Progress: Day 26/60** ✅
+### **Progress: Day 27/60** ✅
 Tracking daily commits to build consistency. 1% better every day.
 
 ### **Topics Covered So Far**
