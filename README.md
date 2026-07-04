@@ -1,37 +1,18 @@
-# SQL Superstar 60-Day Challenge 🚀
-**Goal**: Crack Data Engineer role | 6 LPA Target | Dec 2026
+# Hi, I'm T Vikas
 
-Following [Sumit Mittal's SQL Superstar](https://www.youtube.com/playlist?list=PLavw5C92dz9Ef4E-1Zi9KfCTXSqILXfW) to master SQL for Data Engineering interviews.
+**Data Analyst Trainee @ FACE Prep** | Python • SQL • PySpark
 
-### **Progress: Day 27/60** ✅
-Tracking daily commits to build consistency. 1% better every day.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](your-link)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=About.me&logoColor=white)](your-link)
 
-### **Topics Covered So Far**
-**Week 4: Joins & Subqueries**
-- **Day 26**: `LEFT JOIN`, `INNER JOIN` | Finding differences between `SOURCE` and `TARGET` tables
-- **Day 25**: Self Join basics with `employees` table
-- **Day 24**: `CASE WHEN` for salary categorization
+### 🔥 What I'm Doing Right Now
+- Week 10: Spark internals - RDD, DAG, Shuffle
+- Shipping Python + SQL to GitHub 5x/week via UBDM
+- Solving LeetCode SQL: Session Bar Chart ✅
+- Building: End-to-end data pipelines
 
-### **Key Queries in This Repo**
-1. `day26_source_vs_target_join.sql` → Find new records in SOURCE table using `LEFT JOIN ... WHERE NULL`
-2. `day25_highest_salary_employee.sql` → Subquery + `GROUP BY` to get max salary per department  
-3. `day24_count_salary_categories.sql` → `CASE WHEN` + `COUNT` for salary bands
+### 📊 GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight)
 
-### **Skills Demonstrated**
-**SQL**: Joins, Subqueries, Aggregate Functions, CASE Statements, Data Comparison  
-**Tools**: MySQL Workbench, Git, GitHub  
-**Practices**: Daily commits, Clean code, Version control
-
-
-
-
-### **Next Up**
-**Week 5**: Window Functions → `ROW_NUMBER()`, `RANK()`, `LEAD/LAG`  
-**Week 6**: CTEs and Recursive Queries
-
-### **Connect With Me**
-**LinkedIn**:   
-**LeetCode SQL 50**: 
-
----
-**Note to Recruiters**: This repo shows my daily execution and SQL growth. Happy to walk through any query in an interview.
+### 🛠 Tech Stack
+`Python` `SQL` `PySpark` `Hive` `HDFS` `AWS` `Git`
