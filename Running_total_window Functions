@@ -1,0 +1,10 @@
+SELECT 
+    emp_id,
+    sales_date,
+    sales_amount,
+    SUM(sales_amount) OVER (
+        PARTITION BY department 
+        ORDER BY sales_date
+    ) AS running_total
+FROM sales
+WHERE department = 'Tech';
