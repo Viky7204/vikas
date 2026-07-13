@@ -1,0 +1,12 @@
+-- Method A: Using LEFT JOIN (Most common)
+SELECT u.user_id, u.name
+FROM users u
+LEFT JOIN orders o ON u.user_id = o.user_id
+WHERE o.order_id IS NULL;
+
+-- Method B: Using NOT EXISTS (Often faster on large datasets)
+SELECT user_id, name 
+FROM users u
+WHERE NOT EXISTS (
+    SELECT 1 FROM orders o WHERE o.user_id = u.user_id
+);
