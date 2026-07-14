@@ -1,106 +1,32 @@
-<h1 align="center">Hi 👋, I'm Vikas</h1>
-<h3 align="center">ECE Graduate | Aspiring Data Engineer | SQL & Python Enthusiast</h3>
+# SQL Practice 🚀
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Aspiring+Data+Engineer;SQL+%7C+Python+%7C+PySpark;Learning+Every+Day;Building+My+Career+One+Step+at+a+Time" />
-</p>
+A collection of SQL problems and solutions as I learn and practice SQL — following **Sumit Mittal's SQL course**.
 
----
+## 📚 About
 
-## 🚀 About Me
+This repo is my personal practice log while learning SQL. I'm solving problems ranging from basic queries to advanced concepts like window functions, joins, and aggregations — mostly inspired by real interview questions and LeetCode-style problems.
 
-- 🎓 B.E. in Electronics & Communication Engineering (ECE)
-- 💻 Learning *SQL, Python, PySpark & Data Engineering*
-- 🔥 Completed *5 Days out of 35* in the *SQL Superstar Challenge* by *Sumit Mittal*
-- 🌱 Currently preparing for Data Engineering roles
-- 🎯 Goal: Become a skilled Data Engineer and work on large-scale data systems
+## 🗂️ Topics Covered
 
----
+- **Aggregations & Grouping** — COUNT, GROUP BY, HAVING
+- **Window Functions** — RANK, DENSE_RANK, ROW_NUMBER, running totals
+- **Joins** — combining tables, finding unmatched records (orphans)
+- **Subqueries & CTEs** — nested queries, second highest salary problems
+- **String Manipulation** — starting letter problems, character-based filters
+- **Data Comparison** — comparing source and target tables
+- **Real-world Scenarios** — customer transactions, daily leads tracking
 
-## 🏆 Current Challenge
+## 📁 Structure
 
-✅ *SQL Superstar Challenge – Day 5/35 Completed*
+Each `.sql` file focuses on one problem, with the query and (where needed) sample data/comments explaining the logic.
 
+## 🎯 Goal
 
-█████░░░░░░░░░░░░░░░░░░░░░░░░░░ 5/35 (14%)
+To build strong SQL fundamentals for data analysis and backend interview prep — one query at a time.
 
+## 🙏 Credits
 
-📅 Progress:
-- ✅ Day 1
-- ✅ Day 2
-- ✅ Day 3
-- ✅ Day 4
-- ✅ Day 5
-- ⏳ Day 6...
+Learning primarily from **Sumit Mittal's SQL course** on YouTube/Udemy, along with additional practice problems from LeetCode and real-world use cases.
 
 ---
-
-## 🛠️ Tech Stack
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode" />
-</p>
-
-*Learning:*
-- SQL
-- Python
-- PySpark
-- Data Engineering
-- Git & GitHub
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight"/>
-
-</p>
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=github-compact"/>
-</p>
-
----
-
-## 📚 Currently Learning
-
-- Advanced SQL
-- Python
-- PySpark
-- Data Engineering Concepts
-- GitHub Projects
-
----
-
-## 🎯 2026 Goals
-
-- ✅ Complete SQL Superstar Challenge
-- 🔲 Master SQL
-- 🔲 Learn PySpark
-- 🔲 Build 10 Data Projects
-- 🔲 Crack a Data Engineer Role
-- 🔲 Contribute to Open Source
-
----
-
-## 📫 Connect With Me
-
-<p>
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN/">
-<img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
-
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-<img src="https://skillicons.dev/icons?i=github" />
-</a>
-</p>
-
----
-
-<p align="center">
-✨ Keep Learning • Keep Building • Stay Consistent ✨
-</p>
+⭐ If you're also learning SQL, feel free to explore and suggest improvements!
