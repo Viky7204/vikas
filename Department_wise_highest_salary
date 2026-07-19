@@ -1,0 +1,4 @@
+SELECT Department,
+       MAX(Salary) AS HighestSalary
+FROM Employee
+GROUP BY Department;
