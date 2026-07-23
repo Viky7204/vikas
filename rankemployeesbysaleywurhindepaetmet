@@ -1,0 +1,6 @@
+WITH ranked AS (
+    SELECT name, department, salary,
+           RANK() OVER (PARTITION BY department ORDER BY salary DESC) AS rnk
+    FROM employees
+)
+SELECT * FROM ranked;
